@@ -16,7 +16,7 @@
 
 ### Image asset:
 
-![Star](./Star.png)
+![Star](./star.png)
 
 ---
 
