@@ -4,7 +4,7 @@
 
 ---
 
-- Portions of my version are based on Pezzza's video: [How to do Rendering using C++ from ZERO](https://www.youtube.com/watch?v=t0z3RojiKFg)
+- Portions of my version are based on [Pezzza's video](https://www.youtube.com/watch?v=t0z3RojiKFg)
 
 ### Screensaver running:
 
