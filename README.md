@@ -4,8 +4,6 @@
 
 ---
 
-- Portions of my version are based on [Pezzza's video](https://www.youtube.com/watch?v=t0z3RojiKFg)
-
 ### Screensaver running:
 
 ![Example](./Screenshot.png)
@@ -42,6 +40,8 @@
     ```
 
 ---
+
+- Portions of my version are based on [Pezzza's video](https://www.youtube.com/watch?v=t0z3RojiKFg)
 
 ### CMake from CLI instructions:
 
