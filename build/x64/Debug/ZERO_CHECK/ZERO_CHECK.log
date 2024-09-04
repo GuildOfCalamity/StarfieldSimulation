@@ -1,9 +1,0 @@
-﻿  1>Checking Build System
-  CMake is re-running because C:/Users/Home/source/repos/SFML/cmake-sfml-project-master/build/CMakeFiles/generate.stamp is out-of-date.
-    the file 'C:/Users/Home/source/repos/SFML/cmake-sfml-project-master/CMakeLists.txt'
-    is newer than 'C:/Users/Home/source/repos/SFML/cmake-sfml-project-master/build/CMakeFiles/generate.stamp.depend'
-    result='-1'
-  -- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.19045.
-  -- Configuring done (5.7s)
-  -- Generating done (0.2s)
-  -- Build files have been written to: C:/Users/Home/source/repos/SFML/cmake-sfml-project-master/build
