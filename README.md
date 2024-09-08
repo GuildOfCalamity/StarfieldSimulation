@@ -6,7 +6,7 @@
 
 ### Screensaver running:
 
-![Example](./Starfield.gif)
+![Example](Starfield.gif)
 
 - To install, just rename `main.exe` to `stars.scr` and copy it (and `star.png`) to your `C:\Windows\System32` folder.
 - I've left the asset as an external PNG so you can replace it with your own, if you prefer.
@@ -14,7 +14,7 @@
 
 ### Image asset:
 
-![Star](./star.png)
+![Star](star.png)
 
 ---
 
